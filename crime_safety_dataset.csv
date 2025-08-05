@@ -1,0 +1,11 @@
+id,date,time,crime_type,city,state,location_description,victim_age,victim_gender,victim_race
+1,2022-09-09,18:58:57,Homicide,Philadelphia,PA,9916 Broadway,34,Male,Other
+2,2022-07-10,12:10:59,Assault,Phoenix,AZ,6853 Oak St,13,Female,Black
+3,2024-12-31,09:26:12,Burglary,San Antonio,TX,3760 Maple Ave,23,Male,Asian
+4,2024-04-12,23:17:28,Vandalism,Philadelphia,PA,6781 Main St,36,Other,Asian
+5,2023-07-19,04:49:39,Fraud,San Antonio,TX,3239 Broadway,26,Other,Other
+6,2021-09-30,03:17:56,Drug Offense,Chicago,IL,635 Oak St,70,Non-binary,Other
+7,2024-11-22,08:41:48,Homicide,Philadelphia,PA,2725 Pine St,48,Other,Asian
+8,2023-12-09,08:10:36,Drug Offense,Houston,TX,457 Pine St,47,Non-binary,Asian
+9,2020-08-06,04:13:54,Fraud,Houston,TX,7584 Oak St,28,Other,Black
+10,2024-04-09,07:18:22,Domestic Violence,San Diego,CA,9233 Main St,44,Female,White
