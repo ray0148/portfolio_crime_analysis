@@ -2,7 +2,7 @@
 # Crime Analysis Portfolio Project
 
 ## Overview
-This project analyzes a dataset of 1000 crime records from 2020 to 2025 across multiple U.S. cities. The analysis focuses on crime types, geographic distribution, temporal trends, victim demographics, and crime hotspots, visualized using interactive Plotly charts and Power BI/Excel.
+This project analyzes a dataset of 1000 crime records from 2020 to 2025 across multiple U.S. cities. The analysis focuses on crime types, geographic distribution, temporal trends, victim demographics, and crime hotspots, visualized using Power BI, Plotly, and Excel.
 
 ## Key Findings
 - **Crime Types**: Vandalism is the most prevalent crime, accounting for 145 incidents.
@@ -21,11 +21,11 @@ This project analyzes a dataset of 1000 crime records from 2020 to 2025 across m
 ## Technical Details
 - **Tools**: Python, pandas, Plotly, Power BI, Excel
 - **Data Cleaning**: Handled missing values, standardized dates, and converted ages to numeric.
-- **Output**: Interactive HTML charts and Power BI/Excel visualizations saved in `portfolio_crime_analysis`.
+- **Output**: Interactive HTML charts and Power BI/Excel visualizations in `portfolio_crime_analysis`.
 
 ## Next Steps
 - Integrate machine learning models to predict crime probabilities.
 - Enhance visualizations with real-time data updates.
-- Deploy as a web dashboard using Streamlit.
+- Deploy as a web dashboard using Streamlit or Power BI Service.
 
-*Generated on 2025-08-05 20:30:14*
+*Generated on 2025-08-06 09:24:30*
